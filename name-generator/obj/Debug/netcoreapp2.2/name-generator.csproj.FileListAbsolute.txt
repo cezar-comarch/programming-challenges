@@ -1,0 +1,11 @@
+/home/cezar/programming-challenges/name-generator/bin/Debug/netcoreapp2.2/name-generator.deps.json
+/home/cezar/programming-challenges/name-generator/bin/Debug/netcoreapp2.2/name-generator.runtimeconfig.json
+/home/cezar/programming-challenges/name-generator/bin/Debug/netcoreapp2.2/name-generator.runtimeconfig.dev.json
+/home/cezar/programming-challenges/name-generator/bin/Debug/netcoreapp2.2/name-generator.dll
+/home/cezar/programming-challenges/name-generator/bin/Debug/netcoreapp2.2/name-generator.pdb
+/home/cezar/programming-challenges/name-generator/obj/Debug/netcoreapp2.2/name-generator.csprojAssemblyReference.cache
+/home/cezar/programming-challenges/name-generator/obj/Debug/netcoreapp2.2/name-generator.csproj.CoreCompileInputs.cache
+/home/cezar/programming-challenges/name-generator/obj/Debug/netcoreapp2.2/name-generator.AssemblyInfoInputs.cache
+/home/cezar/programming-challenges/name-generator/obj/Debug/netcoreapp2.2/name-generator.AssemblyInfo.cs
+/home/cezar/programming-challenges/name-generator/obj/Debug/netcoreapp2.2/name-generator.dll
+/home/cezar/programming-challenges/name-generator/obj/Debug/netcoreapp2.2/name-generator.pdb

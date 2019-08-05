@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cezar/programming-challenges/name-generator/name-generator.csproj": {}
+  },
+  "projects": {
+    "/home/cezar/programming-challenges/name-generator/name-generator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cezar/programming-challenges/name-generator/name-generator.csproj",
+        "projectName": "name-generator",
+        "projectPath": "/home/cezar/programming-challenges/name-generator/name-generator.csproj",
+        "packagesPath": "/home/cezar/.nuget/packages/",
+        "outputPath": "/home/cezar/programming-challenges/name-generator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cezar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
